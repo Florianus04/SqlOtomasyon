@@ -1,0 +1,11 @@
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\bin\Debug\EmlakKayitOtomasyonu.exe.config
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\bin\Debug\EmlakKayitOtomasyonu.exe
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\bin\Debug\EmlakKayitOtomasyonu.pdb
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.Form1.resources
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.Properties.Resources.resources
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.csproj.GenerateResource.cache
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.exe
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.pdb
+C:\Users\saffa\source\repos\EmlakKayitOtomasyonu\EmlakKayitOtomasyonu\obj\Debug\EmlakKayitOtomasyonu.Form2.resources
